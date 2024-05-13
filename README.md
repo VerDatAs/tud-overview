@@ -18,4 +18,4 @@ TODO: Sebastian
 
 ## Further Documents
 
-TODO: Tommy
+* [(German) VerDatAs: Auswertung der technischen Evaluation vom 10.04.2024](https://zenodo.org/records/11174279): In diesem Dokument wird eine technische Evaluation des tutoriellen Assistenzsystems, welches im Rahmen des VerDatAs Projektes entwickelt wurde, ausgewertet. Dadurch sollen die im Rahmen der Evaluation erzielten Ergebnisse auch für Dritte nachvollziehbar aufgelistet werden.
