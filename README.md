@@ -14,7 +14,7 @@ Die folgenden technischen Komponenten wurden entwickelt:
 
 ### Setup Informationen
 
-Die Informationen zum Setup des TAS können über [folgendes Dokument](SETUP.md) abgerufen werden.
+Die Informationen zum Setup des TAS und der zugehörigen Komponenten können über [folgendes Dokument](SETUP.md) abgerufen werden.
 
 ## Veröffentlichte Dokumente
 
