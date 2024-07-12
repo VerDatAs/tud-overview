@@ -1,4 +1,4 @@
-# Übersicht der TUD (WIP)
+# Übersicht der TUD
 
 Dieses Projekt gibt einen Überblick über die von der TU Dresden entwickelten Komponenten und veröffentlichten Dokumente für das tutorielle Assistenzsystem (TAS), welches im Rahmen des Forschungsprojekts VerDatAs in interdisziplinärer Zusammenarbeit von Psychologie und Informatik konzipiert, umgesetzt und evaluiert wurde.
 
@@ -35,4 +35,8 @@ Die im Rahmen von VerDatAs erstellen Dokumente der TU Dresden wurden über Zenod
 * [VerDatAs: Auswertung der technischen Evaluation vom 10.04.2024](https://doi.org/10.5281/zenodo.11174279): In diesem Dokument wird eine technische Evaluation des tutoriellen Assistenzsystems ausgewertet. Dadurch sollen die im Rahmen der Evaluation erzielten Ergebnisse auch für Dritte nachvollziehbar aufgelistet werden.
 * [Auswertung der Evaluation zum selbstregulierten Lernen in einem Berufsschulzentrum am 27. Juni 2023](https://doi.org/10.5281/zenodo.12622460): Dieses Dokument geht auf die Evaluation des tutoriellen Assistenzsystems im Kontext eines selbstregulierten Online-Lernkurses ein. Durch die Beschreibung der Ergbenisse sollen zukünftige Erhebungen profitieren.
 * [Konzeptionelle Entwicklung, Planung und Umsetzung eines tutoriellen Assistenzsystems im VerDatAs-Projekt von Mai 2021 bis April 2024](https://doi.org/10.5281/zenodo.12545684): Dieses Dokument versteht sich als Gesamtevaluation und verdeutlicht die konzeptionelle Entwicklung und Umsetzung des tutoriellen Assistenzsystems. Diese Zusammenfassung soll einen Überblick bieten, wie das TAS innerhalb des Projektes entwickelt, geplant und umgesetzt wurde und welche wissenschaftlichen Quellen eine Rolle spielten. 
-* [Konzeption eines tutoriellen Assistenzsystems aus psychologischer Sicht](https://doi.org/10.5281/zenodo.12546480): In dieser Präsenatation finden sich Recherche-Ergebnisse und konzeptionelle Überlegungen zur Entwicklung eines tutoriellen Assistenzsystems aus psychologischer Sicht. Die Konzeption folgte einem iterativen Prozess bei dem Projektstände mit den Projektpartnern diskutiert, erweitert und teilweise verworfen wurden. Die Präsentation ist als Ergänzung bzw. Erweiterung der [Gesamtevaluation](https://doi.org/10.5281/zenodo.12545684) zu sehen. 
+* [Konzeption eines tutoriellen Assistenzsystems aus psychologischer Sicht](https://doi.org/10.5281/zenodo.12546480): In dieser Präsenatation finden sich Recherche-Ergebnisse und konzeptionelle Überlegungen zur Entwicklung eines tutoriellen Assistenzsystems aus psychologischer Sicht. Die Konzeption folgte einem iterativen Prozess bei dem Projektstände mit den Projektpartnern diskutiert, erweitert und teilweise verworfen wurden. Die Präsentation ist als Ergänzung bzw. Erweiterung der [Gesamtevaluation](https://doi.org/10.5281/zenodo.12545684) zu sehen.
+
+## Forschungsdaten
+
+Zusätzlich zu den veröffentlichten Dokumenten werden ausgewählte Forschungsdaten durch die TU Dresden bereitgestellt, die unter [tud-research-data](https://github.com/VerDatAs/tud-research-data) zugreifbar sind.
